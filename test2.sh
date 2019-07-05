@@ -1,2 +1,2 @@
-echo "[test2.sh]"
+echo "acdsdsaccdsacdsacdsa"
 echo "23333"
